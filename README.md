@@ -87,3 +87,10 @@ Within this page, simply type / to start entering a search term to look for. For
 
 ![Screenshot (135)](https://user-images.githubusercontent.com/98957434/157997551-5aa2070c-5b96-4f0f-9c6c-d405cd69bbfb.png)
 
+
+
+-----------------------------------------------------------------
+If an exception occurs, which has not been handled by programmer then program execution gets terminated and a system generated error message is shown to the user. For example look at the system generated exception below:
+
+![flow_control_directive](https://user-images.githubusercontent.com/98957434/158078299-88010cc1-63ce-4b18-a393-cb6bc740bc02.gif)
+
