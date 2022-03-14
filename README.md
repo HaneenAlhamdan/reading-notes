@@ -44,6 +44,7 @@ Within this page, simply type / to start entering a search term to look for. For
 * Make Directory mkdir command.
 * Removing or deleting a directory rmdir command.
 
+--------------------------------------------------------------------------------------------------------------------
 
 #  screen shot 
 
@@ -94,3 +95,20 @@ If an exception occurs, which has not been handled by programmer then program ex
 
 ![flow_control_directive](https://user-images.githubusercontent.com/98957434/158078299-88010cc1-63ce-4b18-a393-cb6bc740bc02.gif)
 
+
+
+
+--------------------------------------------------------------------------------------------------------------------
+
+
+# Unit Testing and Documentation
+
+##  Testing
+Unit tests verify the most basic functionality of your code, thus safeguarding against bugs introduced in refactoring.
+ Unit tests don’t deal with their environment and with external systems to the codebase.
+ If it you’ve written something that can fail when run on a machine without the “proper setup,” you haven’t written a unit test.
+ unit tests don’t exercise multiple components of your system and how they act.  If you have a console application and you pipe input to it from the command line and test for output, you’re executing an end-to-end system test — not a unit test.
+
+## Documentation
+ In addition to assisting with refactoring, unit tests serve as vital documentation for fellow programmers
+ You may also have an external documentation directory with examples of how to run your project, or perhaps you have been writing comments within your code to best communicate with your teammates about your changes.
