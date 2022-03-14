@@ -112,3 +112,7 @@ Unit tests verify the most basic functionality of your code, thus safeguarding a
 ## Documentation
  In addition to assisting with refactoring, unit tests serve as vital documentation for fellow programmers
  You may also have an external documentation directory with examples of how to run your project, or perhaps you have been writing comments within your code to best communicate with your teammates about your changes.
+
+ ## README
+One of the most crucial things in your open source project is the README.md file
+Whether the programmer will start building a program from scratch or will modify a program that another programmer has built, he needs to README badly, without him he will be like a wanderer and he will not know where to start or what to do
