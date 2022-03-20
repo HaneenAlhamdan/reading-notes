@@ -2,6 +2,11 @@
 The stream is basically the sequence of bytes passing through the communication path. There are two main streams: the input stream and the output stream. 
 * The input stream is used for reading data from file (read operation) 
 * The output stream is used for writing into the file (write operation).
+
+Classes and methods are used to write text to a file: (Links to an external site.)
+* StreamWriter: includes ways for writing to a file synchronously or asynchronously.
+* File: it has methods for writing text to a file that are static.
+* Path: it is for strings that include information about file or directory paths.
  
  ![Example](https://user-images.githubusercontent.com/98957434/158898050-9136de36-b0ba-4921-87ab-67fcea0f9bb6.jpg)
 
@@ -14,3 +19,4 @@ The stream is basically the sequence of bytes passing through the communication 
 The File.ReadAllText() method opens a text file, reads all the text in the file into a string, and then closes the file.
 Example:-
  text = File.ReadLine();
+

@@ -1,4 +1,3 @@
-
 ## Read
 * [reading notes](./File_Manipulation/reading-notes.md)  
 * [command line](./File_Manipulation/Command-Line.md)  
