@@ -23,4 +23,3 @@ public abstract int Age {
          get;
          set;
       }
-      
