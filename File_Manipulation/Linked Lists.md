@@ -16,3 +16,6 @@ Basic concepts and nomenclature:-
 - Multiply linked list
 - Circular linked list
 - Sentinel nodes
+
+
+![images (1)](https://user-images.githubusercontent.com/98957434/159837590-f251adb2-2191-482b-9ba4-66b7b39ba569.png)
