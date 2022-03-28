@@ -7,3 +7,4 @@
 * [Classes & Memory Management](./File_Manipulation/Classes%20%26%20Memory%20Management.md)
 * [Linked Lists](./File_Manipulation/Linked%20Lists.md)
 * [Object Oriented Principles](./File_Manipulation/Object%20Oriented%20Principles.md)
+* [Interfaces](./File_Manipulation/Interfaces.md)
