@@ -8,3 +8,4 @@
 * [Linked Lists](./File_Manipulation/Linked%20Lists.md)
 * [Object Oriented Principles](./File_Manipulation/Object%20Oriented%20Principles.md)
 * [Interfaces](./File_Manipulation/Interfaces.md)
+* [Collections](./File_Manipulation/Collections.md)
