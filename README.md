@@ -9,3 +9,4 @@
 * [Object Oriented Principles](./File_Manipulation/Object%20Oriented%20Principles.md)
 * [Interfaces](./File_Manipulation/Interfaces.md)
 * [Collections](./File_Manipulation/Collections.md)
+* [LINQ & Delegates](./File_Manipulation/LINQ%20%26%20Delegates.md)
