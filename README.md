@@ -11,3 +11,4 @@
 * [Collections](./File_Manipulation/Collections.md)
 * [LINQ & Delegates](./File_Manipulation/LINQ%20%26%20Delegates.md)
 * [Stacks & Queues](./File_Manipulation/Stacks%20%26%20Queues.md)
+* [ERDs](./File_Manipulation/ERDs.md)
