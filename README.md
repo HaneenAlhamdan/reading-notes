@@ -12,3 +12,4 @@
 * [LINQ & Delegates](./File_Manipulation/LINQ%20%26%20Delegates.md)
 * [Stacks & Queues](./File_Manipulation/Stacks%20%26%20Queues.md)
 * [ERDs](./File_Manipulation/ERDs.md)
+* [Entity Framework and APIs](./File_Manipulation/Entity%20Framework%20and%20APIs.md)
