@@ -18,3 +18,4 @@
 * [Routing and Navigation Properties](./File_Manipulation/Routing%20and%20Navigation%20Properties.md)
 * [Refactoring with DTOs](./File_Manipulation/Refactoring%20with%20DTOs.md)
 * [Testing and Swagger and Deployment](./File_Manipulation/Tetsing.md)
+* [Identity](./File_Manipulation/Identity.md)
