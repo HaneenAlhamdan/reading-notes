@@ -19,3 +19,4 @@
 * [Refactoring with DTOs](./File_Manipulation/Refactoring%20with%20DTOs.md)
 * [Testing and Swagger and Deployment](./File_Manipulation/Tetsing.md)
 * [Identity](./File_Manipulation/Identity.md)
+* [Roles_Claims_Tokens](./File_Manipulation/Roles_Claims_Tokens.md)
