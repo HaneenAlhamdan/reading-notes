@@ -22,3 +22,5 @@
 * [Roles_Claims_Tokens](./File_Manipulation/Roles_Claims_Tokens.md)
 * [MVC](./File_Manipulation/MVC.md)
 * [MVC Forms](./File_Manipulation/MVC%20Forms.md)
+* [MVC / Cookies](./File_Manipulation/MVC%20/%20Cookies.md)
+* [Hash Tables](./File_Manipulation/MVC%20/Hash%20Tables.md)
