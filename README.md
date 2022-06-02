@@ -24,3 +24,5 @@
 * [MVC Forms](./File_Manipulation/MVC%20Forms.md)
 * [MVC / Cookies](./File_Manipulation/MVC%20/%20Cookies.md)
 * [Hash Tables](./File_Manipulation/MVC%20/Hash%20Tables.md)
+* [Azure Blobs](./File_Manipulation/Azure%20Blobs.md)
+* [Razor Pages](./File_Manipulation/Razor%20Pages.md)
