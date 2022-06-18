@@ -28,3 +28,5 @@
 * [Razor Pages](./File_Manipulation/Razor%20Pages.md)
 * [View Components](./File_Manipulation/View%20Components.md)
 * [Payment Processing](./File_Manipulation/Payment%20Processing.md)
+* [Sendgrid](./File_Manipulation/Sendgrid.md)
+* [Graphs](./File_Manipulation/Graphs.md)
