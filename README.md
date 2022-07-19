@@ -32,3 +32,5 @@
 * [Graphs](./File_Manipulation/Graphs.md)
 * [JAM Stack](./File_Manipulation/JAM%20Stack.md)
 * [Unity](./File_Manipulation/unity.md)
+* [Unity - Game Play](./File_Manipulation/Unity%20-%20Game%20Play.md)
+* [Open-Source Software Contribution](./File_Manipulation/Open-Source%20Software%20Contribution.md)
